@@ -1,0 +1,2 @@
+# playground-cypress
+automation environment
